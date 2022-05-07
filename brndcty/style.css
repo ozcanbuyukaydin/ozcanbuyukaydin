@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brct-ws';
-  src:  url('fonts/brct-ws.eot?p9q6xm');
-  src:  url('fonts/brct-ws.eot?p9q6xm#iefix') format('embedded-opentype'),
-    url('fonts/brct-ws.ttf?p9q6xm') format('truetype'),
-    url('fonts/brct-ws.woff?p9q6xm') format('woff'),
-    url('fonts/brct-ws.svg?p9q6xm#brct-ws') format('svg');
+  src:  url('fonts/brct-ws-v1.eot?p9q6xm');
+  src:  url('fonts/brct-ws-v1.eot?p9q6xm#iefix') format('embedded-opentype'),
+    url('fonts/brct-ws-v1.ttf?p9q6xm') format('truetype'),
+    url('fonts/brct-ws-v1.woff?p9q6xm') format('woff'),
+    url('fonts/brct-ws-v1.svg?p9q6xm#brct-ws') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
